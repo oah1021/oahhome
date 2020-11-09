@@ -1,0 +1,21 @@
+body {
+    background-image: url(https://s1.ax1x.com/2020/10/19/0jLNSx.jpg);
+}
+h1 {
+    text-align: center;
+    color: #04470d;
+}
+h2 {
+    margin-left: 55%;
+    color: #04470d;
+}
+p {
+    text-indent: 40px;
+    font-size: 20px;
+    color: #04470d;
+}
+img {
+    position: absolute;
+    left: 50%;
+    margin-left: -181px;
+}
